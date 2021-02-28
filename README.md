@@ -2,8 +2,6 @@
 
 ## 📸 ScreenShots
 
-<img src="ss/res.png"/>
-
 **Some screenshots below**
 <br>
 <br>
